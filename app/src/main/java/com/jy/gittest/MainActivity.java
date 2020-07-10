@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         String n = "3333";
         String m = "555555";
         String a1 = "66666";
+        String a2 = "777";
 
     }
 }
