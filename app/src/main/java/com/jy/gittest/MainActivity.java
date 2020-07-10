@@ -13,8 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 //        git提交到github
         String s = "111";
-        String x = "444";
+		String x = "444";
         String n = "3333";
-        String y = "2345t";
     }
 }
